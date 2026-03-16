@@ -4,9 +4,10 @@ Python tool for analyzing ROV inspection coverage and mission metrics from subse
 
 ## Features
 
-- Calculates total distance traveled by the ROV
-- Analyzes mission depth statistics
-- Visualizes ROV inspection trajectory
+- Calculate total ROV mission distance
+- Analyze inspection coverage
+- Compute mission depth statistics
+- Visualize inspection trajectory
 
 ## Technologies
 
