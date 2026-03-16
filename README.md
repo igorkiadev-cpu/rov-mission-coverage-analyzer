@@ -22,4 +22,4 @@ Mission statistics including:
 - Total mission distance
 - Maximum depth
 - Average depth
-- Inspection trajectory visualization
+- Inspection trajectory visualization.
