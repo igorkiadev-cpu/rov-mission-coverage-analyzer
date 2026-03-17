@@ -23,3 +23,6 @@ Mission statistics including:
 - Maximum depth
 - Average depth
 - Inspection trajectory visualization.
+
+![Mission Coverage](images/coverage-map.png)
+![Mission Coverage](images/coverage-map.png) 
