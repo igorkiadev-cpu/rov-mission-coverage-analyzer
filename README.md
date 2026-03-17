@@ -25,4 +25,4 @@ Mission statistics including:
 - Inspection trajectory visualization.
 
 ![Mission Coverage](coverage-map.png1.PNG)
-![Mission Coverage](images/coverage-map.png) 
+![Mission Coverage](coverage-map.png.PNG) 
